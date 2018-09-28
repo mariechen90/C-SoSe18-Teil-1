@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+
+-<listHero>
+
+
+-<hero>
+
+<name id="01">Saitama</name>
+
+<heroID>Caped Baldy</heroID>
+
+<height>175cm</height>
+
+<classification>B</classification>
+
+</hero>
+
+
+-<hero>
+
+<name id="02">Genos</name>
+
+<heroID>Demon Cyborg</heroID>
+
+<height>178cm</height>
+
+<classification>S</classification>
+
+</hero>
+
+
+-<hero>
+
+<name id="03">King</name>
+
+<heroID>The Strongest Man on Earth</heroID>
+
+<height>187cm</height>
+
+<classification>S</classification>
+
+</hero>
+
+
+-<hero>
+
+<name id="04">Tatsumaki</name>
+
+<heroID>Terrible Tornado</heroID>
+
+<height>120cm</height>
+
+<classification>S</classification>
+
+</hero>
+
+
+-<hero>
+
+<name id="05">Fubuki</name>
+
+<heroID>Hellish Blizzard</heroID>
+
+<height>167cm</height>
+
+<classification>B</classification>
+
+</hero>
+
+-<hero>
+
+<name id="06">Unknown</name>
+
+<heroID>Mumen Rider</heroID>
+
+<height>170cm</height>
+
+<classification>C</classification>
+
+</hero>
+
+
+-<hero>
+
+<name id="07">Bad</name>
+
+<heroID>Metal Bat</heroID>
+
+<height>168cm</height>
+
+<classification>S</classification>
+
+</hero>
+
+
+-<hero>
+
+<name id="08">Bang</name>
+
+<heroID>Silver Fang</heroID>
+
+<height>165cm</height>
+
+<classification>S</classification>
+
+</hero>
+
+
+-<hero>
+
+<name id="09">Sneck</name>
+
+<heroID>Biting Snake Fist</heroID>
+
+<height>179.50cm</height>
+
+<classification>A</classification>
+
+</hero>
+
+
+-<hero>
+
+<name id="10">Kamikaze</name>
+
+<heroID>Atmoic Samurai</heroID>
+
+<height>177cm</height>
+
+<classification>S</classification>
+
+</hero>
+
+
+-<hero>
+
+<name id="11">Doctor Bofoi</name>
+
+<heroID>Metal Knight</heroID>
+
+<height>134cm</height>
+
+<classification>S</classification>
+
+</hero>
+
+</listHero>

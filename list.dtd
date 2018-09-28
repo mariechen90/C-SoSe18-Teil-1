@@ -1,0 +1,5 @@
+<!ELEMENT hero (name,heroID,height,classification)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT heroID (#PCDATA)>
+<!ELEMENT height (#PCDATA)>
+<!ELEMENT classification (#PCDATA)>
