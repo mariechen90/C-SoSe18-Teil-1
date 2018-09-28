@@ -10,6 +10,8 @@ Es wurden teilweise Folien aus den Seminarsitzungen verwendet.
 Die XML-Datei **herolist.xml** enthält eine Reihe von Informationen über Helden aus der Serie *One Punch Man* (JP 2015, Madhouse). 
 In der Textdatei **herolist.txt** befinden sich zusätzliche Informationen wie ID, Einsatzbereich/Wohnort des jeweiligen Helden und der aktuelle Listenplatz innerhalb des zugewiesenen Helden-Rankings (Rankings werden mit den Buchstaben S, A, B und C betitelt, wobei S den höchsten Rang darstellt).  
 
+[![One Punch Man](http://i.imgur.com/9q07S9J.png)](http://i.imgur.com/9q07S9J.png)
+
 ### Funktionalität:
 Programm über **main.cpp** starten und Anweisungen auf dem Bildschirm befolgen.
 Für das Einlesen der beiden Dateien müssen die **vollständigen bzw. absoluten Pfade** eingegeben werden, z.B.: *C:\Users\User\Desktop\CPP\xyz.xml*.
